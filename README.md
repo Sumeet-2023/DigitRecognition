@@ -16,11 +16,9 @@ This project implements a digit recognition system using the MNIST dataset and a
 
 ## Installation
 
- **Clone the repository:**
-   
-    ```bash
-    git clone https://github.com/Sumeet-2023/digit-recognition.git
-    ```
+**Clone the repository:**
+
+    git clone https://github.com/Sumeet-2023/DigitRecognition.git
 
 ## Usage
 
